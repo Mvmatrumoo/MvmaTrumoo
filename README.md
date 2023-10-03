@@ -1,6 +1,6 @@
 ### Hi im @MvmaTrumoo
 - I am currently a student
--⚡ I Like programming
+- ⚡ I Like programming
 - 😄 I am currently taking an intro to programming class
 <!--
 **Mvmatrumoo/MvmaTrumoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
