@@ -1,4 +1,4 @@
-### Hi im @MvmaTrumoo
+### Hi I'm @MvmaTrumoo
 - I am currently a student
 - ⚡ I Like programming
 - 😄 I am currently taking an intro to programming class
