@@ -7,7 +7,7 @@
 - 🎾 I like playing tennis
 - 🍜 I love food
 ### Code.org GameLab
-[Robot Face](htps://ramumuthukaruppan.github.io/RobotFace/)
+[Robot Face][(https://mvmatrumoo.github.io/RobotFace/)]
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face. 
 
 <!--
