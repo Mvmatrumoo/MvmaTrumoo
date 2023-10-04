@@ -2,6 +2,9 @@
 - I am currently a student
 - ⚡ I Like programming
 - 😄 I am currently taking an intro to programming class
+- 😎 Pronouns: He/Him
+- 🎾 I like playing tennis
+- 🍜 I love food
 <!--
 **Mvmatrumoo/MvmaTrumoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
