@@ -1,4 +1,4 @@
-![octocat-1696334545153](https://github.com/Mvmatrumoo/MvmaTrumoo/assets/104849084/721c255e-8c02-4669-95c8-5f1f4dafa8b4)
+![octocat-1696334545153](https://github.com/Mvmatrumoo/MvmaTrumoo/assets/104849084/a7d3d917-0970-4b23-b743-25767a24df43)
 ### Hi I'm @MvmaTrumoo
 - I am currently a student
 - ⚡ I Like programming
