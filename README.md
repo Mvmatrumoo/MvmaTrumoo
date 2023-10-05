@@ -1,5 +1,5 @@
-![octocat-1696334545153](https://github.com/Mvmatrumoo/MvmaTrumoo/assets/104849084/a7d3d917-0970-4b23-b743-25767a24df43)
-### Hi I'm @MvmaTrumoo
+### Hi I'm @Mvma![octocat-1696334545153](https://github.com/Mvmatrumoo/MvmaTrumoo/assets/104849084/7d58ddeb-38cf-4174-8488-23258738aecc)
+Trumoo
 - 🏫I am currently a student
 - ⚡ I Like programming
 - 😄 I am currently taking an intro to programming class
