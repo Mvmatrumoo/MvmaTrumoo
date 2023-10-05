@@ -12,14 +12,19 @@
 
 [Captioned Scenes](https://studio.code.org/projects/gamelab/deksEm1oAozPkIEv5jx5bM9twa8E79ti0lmgADZDlrs)
 > In this project my partner and I used shapes, variables, and randomness to create a space scene
+
 [Animation]
 >
+
 [Interactive Card]
 >
+
 [Side Scroller]
 >
+
 [Flyer Game]
 >
+
 [Project - Design a Game]
 >
 <!--
