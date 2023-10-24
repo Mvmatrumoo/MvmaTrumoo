@@ -16,8 +16,8 @@
 [Animation]
 >
 
-[Interactive Card]
->
+[Interactive Card](https://studio.code.org/projects/gamelab/SEYCe_W5Sz4vmzzjPWfOQEHKqiTSrVTnQcVI22KzfOI)
+> In this project my partner and I used sprites, conditionals, and user inputs to create and interactive card
 
 [Side Scroller]
 >
