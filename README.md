@@ -13,14 +13,11 @@
 [Captioned Scenes](https://studio.code.org/projects/gamelab/deksEm1oAozPkIEv5jx5bM9twa8E79ti0lmgADZDlrs)
 > In this project my partner and I used shapes, variables, and randomness to create a space scene
 
-[Animation]
->
-
 [Interactive Card](https://studio.code.org/projects/gamelab/SEYCe_W5Sz4vmzzjPWfOQEHKqiTSrVTnQcVI22KzfOI)
 > In this project my partner and I used sprites, conditionals, and user inputs to create an interactive card
 
-[Side Scroller]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/f2-OhcOxGVpeTMhwKo5dxX3lR_ubnPxnGgpyrmAmx8Q)
+>In this project my partner and I used sprites, conditionals. sprite interactions and more to create a side scroller game
 
 [Flyer Game]
 >
