@@ -19,8 +19,8 @@
 [Side Scroller](https://studio.code.org/projects/gamelab/f2-OhcOxGVpeTMhwKo5dxX3lR_ubnPxnGgpyrmAmx8Q)
 >In this project my partner and I used sprites, conditionals. sprite interactions and more to create a side scroller game
 
-[Flyer Game]
->
+[Flyer Game](https://studio.code.org/projects/gamelab/K135CDNtmCFL1GZuM1nBAcN2wVOLmVRydMBPeE0NT-4)
+>In this project my partner and I used velocity counter patterns to simulate gravity to create a flyer game
 
 [Project - Design a Game]
 >
