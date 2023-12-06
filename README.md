@@ -22,7 +22,10 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/K135CDNtmCFL1GZuM1nBAcN2wVOLmVRydMBPeE0NT-4)
 >In this project my partner and I used velocity counter patterns to simulate gravity to create a flyer game
 
-[Project - Design a Game]
->
+[Platform Jumper Game](https://studio.code.org/projects/gamelab/3ScFMW-12kzDGr-hciYoiTIZIAa1ne2gr1s4isWVN-k)
+>In this project my partner and I used velocity counter paterns to dimulate gravity and sprite collide to allow the fog to sit on the logs
+
+[Project - Design a Game](https://studio.code.org/projects/gamelab/xguGd5CQH8iFHyxX6cmjXMfX-Ysx3ySegZohwZ3zE6E)
+>In this project I used used user input, complex sprite interactions and movement to create a game similar to space invaders
 <!--
 
