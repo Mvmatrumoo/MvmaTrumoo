@@ -28,6 +28,14 @@
 [Space Invaders Game](https://studio.code.org/projects/gamelab/xguGd5CQH8iFHyxX6cmjXMfX-Ysx3ySegZohwZ3zE6E)
 >In this project I used used user input, complex sprite interactions and movement to create a game similar to space invaders
 
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=c4aae224-7f3a-456a-97ac-f4483d7fa082)
+>In this project I used buttons and players containing sounds to create a conversation
+
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=b54569bb-3197-405e-b9c8-a035569ff3f1)
+>In this project I used buttons and player containing sounds to create a real Piano!
+
+[Musice Maker](https://gallery.appinventor.mit.edu/?galleryid=1bed85bf-7a79-41b3-890f-5614adcbfce40
+>In this project I used buttons to start and stop sounds, and a recorder to record the sounds being played to play them back
 
 <!--
 
