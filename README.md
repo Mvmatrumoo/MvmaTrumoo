@@ -34,8 +34,8 @@
 [My Piano](https://gallery.appinventor.mit.edu/?galleryid=b54569bb-3197-405e-b9c8-a035569ff3f1)
 >In this project I used buttons and player containing sounds to create a real Piano!
 
-[Musice Maker](https://gallery.appinventor.mit.edu/?galleryid=1bed85bf-7a79-41b3-890f-5614adcbfce40
->In this project I used buttons to start and stop sounds, and a recorder to record the sounds being played to play them back
+[Musice Maker](https://gallery.appinventor.mit.edu/?galleryid=1bed85bf-7a79-41b3-890f-5614adcbfce40)
+>In this project I used buttons to start and stop sounds, and a recorder to record all the mixed sounds being played to play them back
 
 <!--
 
