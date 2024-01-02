@@ -38,6 +38,6 @@
 >In this project I used buttons to start and stop sounds, and a recorder to record all the mixed sounds being played to play them back
 
 [Find the Gold Game](https://gallery.appinventor.mit.edu/?galleryid=53e3c2fb-211f-4ad7-b1fe-52887f1120f9)
->In this project I used an accelermoter to trak the movements of the Ipad to control the ball
+>In this projectmy partner and I used an accelermoter to trak the movements of the Ipad to control the ball
 <!--
 
