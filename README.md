@@ -44,5 +44,6 @@
 >In this project my parnter and I used balls and imagesprites to create a game based on packman
 
 >---------------------------------------------------------------------------------------------------
+[Python]
 <!--
 
