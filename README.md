@@ -44,7 +44,7 @@
 [Packman Game](https://gallery.appinventor.mit.edu/?galleryid=f56b1afc-00e2-49c5-b3e7-441141161c23)
 >In this project my parnter and I used balls and imagesprites to create a game based on packman
 
->---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ### CMU Python
 [Python Car Scene](https://academy.cs.cmu.edu/sharing/greenTurtle8805)
 >In this project I used python to code a scene of a car driving down a road
