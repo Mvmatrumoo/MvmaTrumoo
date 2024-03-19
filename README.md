@@ -27,7 +27,8 @@
 
 [Space Invaders Game](https://studio.code.org/projects/gamelab/xguGd5CQH8iFHyxX6cmjXMfX-Ysx3ySegZohwZ3zE6E)
 >In this project I used used user input, complex sprite interactions and movement to create a game similar to space invaders
-
+--------------------------------------------------------------------------------------------------------------------------------
+### MIT App Inventor
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=c4aae224-7f3a-456a-97ac-f4483d7fa082)
 >In this project I used buttons and players containing sounds to create a conversation
 
@@ -44,9 +45,11 @@
 >In this project my parnter and I used balls and imagesprites to create a game based on packman
 
 >---------------------------------------------------------------------------------------------------
-[Python]
-
+### CMU Python
 [Python Car Scene](https://academy.cs.cmu.edu/sharing/greenTurtle8805)
 >In this project I used python to code a scene of a car driving down a road
+
+[Python Interactive Boat Scene](https://academy.cs.cmu.edu/sharing/greyKitten5835)
+>In this project  used python to code an interactive scene with a boat moving across a river
 <!--
 
