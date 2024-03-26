@@ -53,6 +53,6 @@
 >In this project I used python to code an interactive scene with a boat moving across a river
 
 [Python Interactive Under Water Scene](https://academy.cs.cmu.edu/sharing/burlyWoodBird2773)
->In this project I used python to code an interactive under water scene where the submarine follow the mouse and fis move across the screen
+>In this project I used python to code an interactive under water scene where the submarine follow the mouse and fish move across the screen
 <!--
 
