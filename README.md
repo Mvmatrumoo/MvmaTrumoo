@@ -50,6 +50,9 @@
 >In this project I used python to code a scene of a car driving down a road
 
 [Python Interactive Boat Scene](https://academy.cs.cmu.edu/sharing/greyKitten5835)
->In this project  used python to code an interactive scene with a boat moving across a river
+>In this project I used python to code an interactive scene with a boat moving across a river
+
+[Python Interactive Under Water Scene](https://academy.cs.cmu.edu/sharing/burlyWoodBird2773)
+>In this project I used python to code an interactive under water scene where the submarine follow the mouse and fis move across the screen
 <!--
 
