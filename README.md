@@ -54,5 +54,8 @@
 
 [Python Interactive Under Water Scene](https://academy.cs.cmu.edu/sharing/burlyWoodBird2773)
 >In this project I used python to code an interactive under water scene where the submarine follow the mouse and fish move across the screen
+
+[Python Interactive Pixel Art](https://academy.cs.cmu.edu/sharing/ivoryCat9388)
+>In this project I used puthon to code an interactive pixel art platform where you click on the colored buttons and then on the pixels to create drawings
 <!--
 
